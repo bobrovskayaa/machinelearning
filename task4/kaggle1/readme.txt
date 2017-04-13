@@ -1,5 +1,5 @@
 result1-4.csv - предсказанные классы, я неправильно изначально поняла условие задачи ( в try_params в ячейке markdown есть значения параметров для CountVectorizer ngram=(i,j) на которых сделаны эти файлы )
-result5.csv - вероятности для ROCAUC
+result5.csv - вероятности для ROCAUC (task1_result_final.csv - то же самое)
 
 task1_names_RF.ipynb - пробовала на RandomForest (перебор параметров)
 task1_names_LM.ipynb - на линейных моделях идёт перебор параметров - основное решение
